@@ -44,7 +44,7 @@ def evaluate_binary_number(binary_num, column_values):
         1 over the 8, 1 over the 2. Nothing over the 4 or 1. So...
         8 + 2 = 10
 		
-    	##############################
+    	###############################
 		binary_num = "1111"
 		column values are the same as before since the binary number is still 4 digits long.
 		
