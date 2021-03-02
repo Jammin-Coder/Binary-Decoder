@@ -1,6 +1,7 @@
 #!/usr/env/bin/ python3
 
 #################################
+# ORIGINAL PROGRAM
 # Binary To Base 10 Decoder
 # Made by TeknoBen96
 # 10/24/2020, 12:55 P.M
