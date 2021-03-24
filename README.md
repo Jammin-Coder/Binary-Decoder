@@ -12,6 +12,6 @@ then enter a binary number to decode.
 #############################################################
 
 ## C++  
-https://github.com/Jammin-Coder/Binary-Decoder/tree/main/c%2B%2B%20version
+https://github.com/Jammin-Coder/Binary-Decoder/tree/main/c%2B%2B%20version  
 This version is written in C++ and compiled on Linux, thus will only run on Linux.  
 To run it, just do `./binary_decoder`  and then enter a binary number to decode.
